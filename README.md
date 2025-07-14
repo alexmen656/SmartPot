@@ -1,2 +1,2 @@
 # SmartPot
-Nice Pot!!!
+A super smart Pot!!!
