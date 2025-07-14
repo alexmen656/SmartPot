@@ -10,12 +10,21 @@ We fully designed the flower pot and 3d printed it. It’s designed to distribut
 
 # BOM
 3 speakers
+
 3 amplifiers
+
 1 orpheus pico
+
 1 xiao rp2040
+
 30 nexopixel leds
+
 lika alot of jumper wires!
+
 2.8 inch tft display
+
 3d printer filament for the pot
+
 1 dht11 sensor
+
 1 motion sensor hc sr501
