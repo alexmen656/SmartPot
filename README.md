@@ -28,3 +28,6 @@ lika alot of jumper wires!
 1 dht11 sensor
 
 1 motion sensor hc sr501
+
+# Video
+https://hc-cdn.hel1.your-objectstorage.com/s/v3/d58174d97e92753f19d44860dc3e147e5fb1127a_img_2065.mp4 - this video shows how our project works.
